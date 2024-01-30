@@ -1,0 +1,161 @@
+verde1 - 99C794
+verde2 - 98c379
+naranja - d19a66
+celeste claro - 5FB3B3
+otro celeste - 56b6c2
+azul1 - 62a2e2
+azul2 - 61afef
+rosa - c678dd
+morado - 8c6ae7
+turquesa - 5FB3B3
+violeta - 808ae4
+amarillo - e5c07b
+
+        "strings": "#99C794",
+        "keywords": "#c678dd",
+        "textMateRules": [
+            {
+                "scope":"constant.numeric",
+                "settings": {
+                    "foreground": "#d3945a",
+                }
+            },
+            {
+                "scope":"entity.name.function",
+                "settings": {
+                    "foreground": "#62a2e2",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope":"constant.other",
+                "settings": {
+                    "foreground": "#d3945a",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope":"meta.function-call",
+                "settings": {
+                    "foreground": "#c4c4c4",
+                    
+                }
+            },
+            {
+                "scope":"variable.parameter",
+                "settings": {
+                    "foreground": "#cccccc",
+                    "fontStyle": "italic bold"
+                }
+            },
+            {
+                "scope":"punctuation.separator",
+                "settings": {
+                    "foreground": "#c4c4c4",
+                    
+                }
+            },
+            {
+                "scope":"meta.function-call.generic.python",
+                "settings": {
+                    "foreground": "#62a2e2"
+                    
+                }
+            },
+            {
+                "scope":"storage.type",
+                "settings": {
+                    "foreground": "#c678dd",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope":"keyword.operator.logical",
+                "settings": {
+                    "foreground": "#c678dd"
+                    
+                }
+            },
+            {
+                "scope":"support.function",
+                "settings": {
+                    "foreground": "#dbc068"
+                    
+                }
+            },
+
+        ]
+
+
+
+
+
+
+
+
+        "strings": "#99C794",
+        "keywords": "#c678dd",       
+        "textMateRules": [
+            {
+                "scope":"entity.name.type",
+                "settings": {
+                    "foreground": "#e5c07b"
+                    
+                }
+            },
+            {
+                "scope":"constant.numeric",
+                "settings": {
+                    "foreground": "#d3945a",
+                }
+            },
+            {
+                "scope":"entity.name.function",
+                "settings": {
+                    "foreground": "#62a2e2",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope":"variable.parameter",
+                "settings": {
+                    "foreground": "#cccccc",
+                    "fontStyle": "italic bold"
+                }
+            },
+            {
+                "scope":"meta.function-call.generic.python",
+                "settings": {
+                    "foreground": "#62a2e2"
+                    
+                }
+            },
+            {
+                "scope":"storage.type",
+                "settings": {
+                    "foreground": "#c678dd",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope":"keyword.operator.logical",
+                "settings": {
+                    "foreground": "#c678dd"
+                    
+                }
+            },
+            {
+                "scope":"support.function",
+                "settings": {
+                    "foreground": "#e5c07b"
+                    
+                }
+            },
+            {
+                "scope":"constant.other",
+                "settings": {
+                    "foreground": "#d3945a",
+                    "fontStyle": "italic"
+                }
+            },
+        ]

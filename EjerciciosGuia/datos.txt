@@ -1,0 +1,8 @@
+diego;argentina;2015
+mateo;brasil;2004
+martin;brasil;2005
+maradona;argentina;2015
+julian;noruega;2018
+lopez;noruega;2018
+maradona;qatar;2022
+lucas;argentina;2015
